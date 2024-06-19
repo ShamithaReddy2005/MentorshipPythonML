@@ -1,0 +1,5 @@
+123 xyz whatever i write here will be written int0 other file
+
+
+
+
